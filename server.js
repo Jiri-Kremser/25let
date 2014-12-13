@@ -1,6 +1,6 @@
 #!/bin/env node
 //  OpenShift Node application (satic content built by grunt)
-console.log('running server.js ...',
+console.log('running server.js ...');
 
 var express = require('express');
 var app = express();
