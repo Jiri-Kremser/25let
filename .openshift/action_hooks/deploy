@@ -1,0 +1,25 @@
+#!/bin/bash
+
+if [  -d ${OPENSHIFT_REPO_DIR}data ]; then
+  cp -rf ${OPENSHIFT_REPO_DIR}data ${dest_dir}/data
+fi
+
+if [  -d ${OPENSHIFT_REPO_DIR}fonts ]; then
+  cp -rf ${OPENSHIFT_REPO_DIR}fonts ${dest_dir}/fonts
+fi
+
+if [  -d ${OPENSHIFT_REPO_DIR}scripts ]; then
+  cp -rf ${OPENSHIFT_REPO_DIR}scripts ${dest_dir}/scripts
+fi
+
+if [  -d ${OPENSHIFT_REPO_DIR}styles ]; then
+  cp -rf ${OPENSHIFT_REPO_DIR}styles ${dest_dir}/styles
+fi
+
+if [  -d ${OPENSHIFT_REPO_DIR}favicon.ico ]; then
+  cp -rf ${OPENSHIFT_REPO_DIR}favicon.ico ${dest_dir}/favicon.ico
+fi
+
+if [  -f ${OPENSHIFT_REPO_DIR}404.html ]; then
+  cp -f ${OPENSHIFT_REPO_DIR}404.html ${dest_dir}/404.html
+fi
