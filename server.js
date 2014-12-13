@@ -2,5 +2,14 @@
 //  OpenShift Node application (satic content built by grunt)
 var express = require('express');
 var app = express();
+
 app.use(express.static(__dirname + '/dist'));
-app.listen(process.env.OPENSHIFT_NODEJS_PORT || 3000);
+
+var port = process.env.OPENSHIFT_NODEJS_PORT || 3000;
+var ip = process.env.OPENSHIFT_NODEJS_IP || '127.0.0.1';
+app.listen(port, ip, function(){
+    console.log('%s: Node server started on %s:%d ...',
+        Date(Date.now() ), self.ipaddress, self.port);
+    }
+);
+
