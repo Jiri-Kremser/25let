@@ -1,7 +1,7 @@
 {
-  "name": "OpenShift-Sample-App",
-  "version": "1.0.0",
-  "description": "OpenShift Sample Application",
+  "name": "25let",
+  "version": "0.0.1",
+  "description": "25 let since revolution",
   "keywords": [
     "OpenShift",
     "Node.js",
@@ -9,9 +9,9 @@
     "openshift"
   ],
   "author": {
-    "name": "OpenShift",
-    "email": "ramr@example.org",
-    "url": "http://www.openshift.com/"
+    "name": "Jiri Kremser",
+    "email": "foo@bar.org",
+    "url": "https://github.com/Jiri-Kremser"
   },
   "homepage": "http://www.openshift.com/",
   "repository": {

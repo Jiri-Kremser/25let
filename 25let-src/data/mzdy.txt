@@ -1,0 +1,37 @@
+
+Položka	Hodnota
+Kód:	1541
+Název:	Průměrná hrubá měsíční mzda (na přepočtené počty zaměstnanců)
+Platnost:	01.01.1995 - 31.12.2999
+Definice:	Podíl mezd bez ostatních osobních nákladů, který připadl v průměru na jednoho zaměstnance přepočteného počtu zaměstnanců za jeden měsíc.
+
+Výpočet se provádí podle vzorce:
+
+m = M / (Zpp * n), kde je
+
+m - průměrná hrubá měsíční mzda
+M - mzdy bez ostatních osobních nákladů za sledované období 
+Zpp - průměrný evidenční počet zaměstnanců přepočtený na plně zaměstnané za sledované období
+n - počet měsíců sledovaného období
+
+
+
+1995	8266
+1996	9778
+1997	10825
+1998	11705
+1999	12546
+2000	13322
+2001	14478
+2002	15550
+2003	16457
+2004	17565
+2005	18283
+2006	19447
+2007	20927
+2008	22653
+2009	23425
+2010	23903
+2011	24466
+2012	25100
+2013	.

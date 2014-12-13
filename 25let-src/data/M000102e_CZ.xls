@@ -1,0 +1,616 @@
+<HTML><HEAD><title>Produkce podle odvětví (objemové indexy, r.2010=100)</title>
+  <META http-equiv="Content-Type" content="text/html; charset=Windows-1250">
+  <STYLE>
+  td { font-family: Arial, Helvetica, sans-serif; font-size: 9pt}
+  th { font-family: Arial, Helvetica, sans-serif; font-size: 10pt;background-color: #e9e9e9; text-align: center}
+  table{border-collapse: collapse}
+  caption {font-family: Arial, Helvetica, sans-serif; font-size: 9pt; ;font-weight: bold}
+  .nadpis { font-family: Arial, Helvetica, sans-serif; font-size: 16pt; text-align: center}
+.paticka { font-family: Arial, Helvetica, sans-serif; font-size: 8pt; text-align: center;padding: 5px;}
+@media print {.nav {display: none}}
+</STYLE></HEAD><BODY>
+<p class="nadpis">M000102e Produkce podle odvětví (objemové indexy, r.2010=100)</p>
+<TABLE border="1" cellpadding="6" cellspacing="0" align ="center">
+<caption>v %</caption>
+<tr>
+<th ><p class="nadpis_tabulka">NACE</p></th>
+<th>1990</th>
+<th>1991</th>
+<th>1992</th>
+<th>1993</th>
+<th>1994</th>
+<th>1995</th>
+<th>1996</th>
+<th>1997</th>
+<th>1998</th>
+<th>1999</th>
+<th>2000</th>
+<th>2001</th>
+<th>2002</th>
+<th>2003</th>
+<th>2004</th>
+<th>2005</th>
+<th>2006</th>
+<th>2007</th>
+<th>2008</th>
+<th>2009</th>
+<th>2010</th>
+<th>2011</th>
+<th>2012</th>
+<th>2013</th>
+</tr>
+<tr><td ALIGN="LEFT"><b>CELKEM</b></td>
+<td ALIGN="RIGHT"><B>57,5</B></td>
+<td ALIGN="RIGHT"><B>54,7</B></td>
+<td ALIGN="RIGHT"><B>53,7</B></td>
+<td ALIGN="RIGHT"><B>52,7</B></td>
+<td ALIGN="RIGHT"><B>53,3</B></td>
+<td ALIGN="RIGHT"><B>57</B></td>
+<td ALIGN="RIGHT"><B>59,7</B></td>
+<td ALIGN="RIGHT"><B>61,9</B></td>
+<td ALIGN="RIGHT"><B>63</B></td>
+<td ALIGN="RIGHT"><B>63,4</B></td>
+<td ALIGN="RIGHT"><B>66,6</B></td>
+<td ALIGN="RIGHT"><B>70,7</B></td>
+<td ALIGN="RIGHT"><B>72,8</B></td>
+<td ALIGN="RIGHT"><B>77,7</B></td>
+<td ALIGN="RIGHT"><B>82,4</B></td>
+<td ALIGN="RIGHT"><B>86,3</B></td>
+<td ALIGN="RIGHT"><B>94,8</B></td>
+<td ALIGN="RIGHT"><B>102,1</B></td>
+<td ALIGN="RIGHT"><B>104</B></td>
+<td ALIGN="RIGHT"><B>95,5</B></td>
+<td ALIGN="RIGHT"><B>100</B></td>
+<td ALIGN="RIGHT"><B>102,7</B></td>
+<td ALIGN="RIGHT"><B>100,6</B></td>
+<td ALIGN="RIGHT"><B>99,9</B></td>
+</tr>
+<tr><td ALIGN="LEFT">A Zemědělství, lesnictví a rybářství</td>
+<td ALIGN="RIGHT">156,9</td>
+<td ALIGN="RIGHT">151,1</td>
+<td ALIGN="RIGHT">109,4</td>
+<td ALIGN="RIGHT">106,9</td>
+<td ALIGN="RIGHT">106,2</td>
+<td ALIGN="RIGHT">103,7</td>
+<td ALIGN="RIGHT">102,4</td>
+<td ALIGN="RIGHT">98,5</td>
+<td ALIGN="RIGHT">97,9</td>
+<td ALIGN="RIGHT">97,8</td>
+<td ALIGN="RIGHT">98,4</td>
+<td ALIGN="RIGHT">98,6</td>
+<td ALIGN="RIGHT">94,7</td>
+<td ALIGN="RIGHT">96,2</td>
+<td ALIGN="RIGHT">101,1</td>
+<td ALIGN="RIGHT">103,5</td>
+<td ALIGN="RIGHT">102,6</td>
+<td ALIGN="RIGHT">98,6</td>
+<td ALIGN="RIGHT">103,1</td>
+<td ALIGN="RIGHT">106,3</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">111,1</td>
+<td ALIGN="RIGHT">109,8</td>
+<td ALIGN="RIGHT">107</td>
+</tr>
+<tr><td ALIGN="LEFT">B Těžba a dobývání</td>
+<td ALIGN="RIGHT">182,2</td>
+<td ALIGN="RIGHT">159</td>
+<td ALIGN="RIGHT">150,4</td>
+<td ALIGN="RIGHT">125,4</td>
+<td ALIGN="RIGHT">125,3</td>
+<td ALIGN="RIGHT">144,3</td>
+<td ALIGN="RIGHT">142,9</td>
+<td ALIGN="RIGHT">134,8</td>
+<td ALIGN="RIGHT">127,5</td>
+<td ALIGN="RIGHT">112</td>
+<td ALIGN="RIGHT">108</td>
+<td ALIGN="RIGHT">113,2</td>
+<td ALIGN="RIGHT">116</td>
+<td ALIGN="RIGHT">113,4</td>
+<td ALIGN="RIGHT">113,4</td>
+<td ALIGN="RIGHT">103,1</td>
+<td ALIGN="RIGHT">113,8</td>
+<td ALIGN="RIGHT">120,3</td>
+<td ALIGN="RIGHT">118,6</td>
+<td ALIGN="RIGHT">101,9</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">96,6</td>
+<td ALIGN="RIGHT">95,8</td>
+<td ALIGN="RIGHT">88,6</td>
+</tr>
+<tr><td ALIGN="LEFT">C Zpracovatelský průmysl</td>
+<td ALIGN="RIGHT">51,2</td>
+<td ALIGN="RIGHT">44,6</td>
+<td ALIGN="RIGHT">39,9</td>
+<td ALIGN="RIGHT">36,7</td>
+<td ALIGN="RIGHT">36,9</td>
+<td ALIGN="RIGHT">42,4</td>
+<td ALIGN="RIGHT">44,7</td>
+<td ALIGN="RIGHT">49,2</td>
+<td ALIGN="RIGHT">52,2</td>
+<td ALIGN="RIGHT">52,5</td>
+<td ALIGN="RIGHT">56,5</td>
+<td ALIGN="RIGHT">62,3</td>
+<td ALIGN="RIGHT">64</td>
+<td ALIGN="RIGHT">68,6</td>
+<td ALIGN="RIGHT">76,9</td>
+<td ALIGN="RIGHT">83,5</td>
+<td ALIGN="RIGHT">95,3</td>
+<td ALIGN="RIGHT">103,2</td>
+<td ALIGN="RIGHT">105,2</td>
+<td ALIGN="RIGHT">89,8</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">106,9</td>
+<td ALIGN="RIGHT">105,5</td>
+<td ALIGN="RIGHT">104,7</td>
+</tr>
+<tr><td ALIGN="LEFT">D Výroba a rozvod elektřiny, plynu, tepla a klimatizovaného vzduchu</td>
+<td ALIGN="RIGHT">51,3</td>
+<td ALIGN="RIGHT">64,3</td>
+<td ALIGN="RIGHT">95,1</td>
+<td ALIGN="RIGHT">87,7</td>
+<td ALIGN="RIGHT">87,5</td>
+<td ALIGN="RIGHT">78,5</td>
+<td ALIGN="RIGHT">90,7</td>
+<td ALIGN="RIGHT">94,1</td>
+<td ALIGN="RIGHT">91,8</td>
+<td ALIGN="RIGHT">92,3</td>
+<td ALIGN="RIGHT">91,7</td>
+<td ALIGN="RIGHT">104,3</td>
+<td ALIGN="RIGHT">103,5</td>
+<td ALIGN="RIGHT">111,1</td>
+<td ALIGN="RIGHT">111,9</td>
+<td ALIGN="RIGHT">103,8</td>
+<td ALIGN="RIGHT">118</td>
+<td ALIGN="RIGHT">112,4</td>
+<td ALIGN="RIGHT">109,8</td>
+<td ALIGN="RIGHT">100,8</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">100,5</td>
+<td ALIGN="RIGHT">98,4</td>
+<td ALIGN="RIGHT">99,2</td>
+</tr>
+<tr><td ALIGN="LEFT">E Zásobování vodou; činnosti související s odpadními vodami, odpady a sanacemi</td>
+<td ALIGN="RIGHT">51,3</td>
+<td ALIGN="RIGHT">56,2</td>
+<td ALIGN="RIGHT">66,9</td>
+<td ALIGN="RIGHT">73,1</td>
+<td ALIGN="RIGHT">71,3</td>
+<td ALIGN="RIGHT">63</td>
+<td ALIGN="RIGHT">74,7</td>
+<td ALIGN="RIGHT">75,9</td>
+<td ALIGN="RIGHT">78,4</td>
+<td ALIGN="RIGHT">79</td>
+<td ALIGN="RIGHT">79</td>
+<td ALIGN="RIGHT">77,5</td>
+<td ALIGN="RIGHT">84,1</td>
+<td ALIGN="RIGHT">83,6</td>
+<td ALIGN="RIGHT">91,2</td>
+<td ALIGN="RIGHT">89,7</td>
+<td ALIGN="RIGHT">98,1</td>
+<td ALIGN="RIGHT">101,4</td>
+<td ALIGN="RIGHT">104,9</td>
+<td ALIGN="RIGHT">101,8</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">104,9</td>
+<td ALIGN="RIGHT">98,4</td>
+<td ALIGN="RIGHT">94,3</td>
+</tr>
+<tr><td ALIGN="LEFT">F Stavebnictví</td>
+<td ALIGN="RIGHT">62</td>
+<td ALIGN="RIGHT">59,8</td>
+<td ALIGN="RIGHT">62,7</td>
+<td ALIGN="RIGHT">65,8</td>
+<td ALIGN="RIGHT">69,3</td>
+<td ALIGN="RIGHT">77,9</td>
+<td ALIGN="RIGHT">82,3</td>
+<td ALIGN="RIGHT">79</td>
+<td ALIGN="RIGHT">76,4</td>
+<td ALIGN="RIGHT">73,5</td>
+<td ALIGN="RIGHT">71,8</td>
+<td ALIGN="RIGHT">72,8</td>
+<td ALIGN="RIGHT">77,3</td>
+<td ALIGN="RIGHT">83,1</td>
+<td ALIGN="RIGHT">85,1</td>
+<td ALIGN="RIGHT">88,5</td>
+<td ALIGN="RIGHT">98,3</td>
+<td ALIGN="RIGHT">111,8</td>
+<td ALIGN="RIGHT">110,7</td>
+<td ALIGN="RIGHT">101,1</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">95,9</td>
+<td ALIGN="RIGHT">87,8</td>
+<td ALIGN="RIGHT">84,2</td>
+</tr>
+<tr><td ALIGN="LEFT">G Velkoobchod a maloobchod; opravy a údržba motorových vozidel</td>
+<td ALIGN="RIGHT">49,9</td>
+<td ALIGN="RIGHT">46,2</td>
+<td ALIGN="RIGHT">47,5</td>
+<td ALIGN="RIGHT">44,8</td>
+<td ALIGN="RIGHT">45,1</td>
+<td ALIGN="RIGHT">45,9</td>
+<td ALIGN="RIGHT">48,2</td>
+<td ALIGN="RIGHT">48,3</td>
+<td ALIGN="RIGHT">48,6</td>
+<td ALIGN="RIGHT">50,9</td>
+<td ALIGN="RIGHT">57,5</td>
+<td ALIGN="RIGHT">60,3</td>
+<td ALIGN="RIGHT">63,8</td>
+<td ALIGN="RIGHT">70,1</td>
+<td ALIGN="RIGHT">75,9</td>
+<td ALIGN="RIGHT">78,9</td>
+<td ALIGN="RIGHT">86,8</td>
+<td ALIGN="RIGHT">93,1</td>
+<td ALIGN="RIGHT">94,6</td>
+<td ALIGN="RIGHT">91,8</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">104,6</td>
+<td ALIGN="RIGHT">101,3</td>
+<td ALIGN="RIGHT">100,4</td>
+</tr>
+<tr><td ALIGN="LEFT">H Doprava a skladování</td>
+<td ALIGN="RIGHT">65,8</td>
+<td ALIGN="RIGHT">62,5</td>
+<td ALIGN="RIGHT">64,2</td>
+<td ALIGN="RIGHT">64,3</td>
+<td ALIGN="RIGHT">64,7</td>
+<td ALIGN="RIGHT">69,5</td>
+<td ALIGN="RIGHT">72,3</td>
+<td ALIGN="RIGHT">73,8</td>
+<td ALIGN="RIGHT">71,7</td>
+<td ALIGN="RIGHT">72,6</td>
+<td ALIGN="RIGHT">75,9</td>
+<td ALIGN="RIGHT">81,2</td>
+<td ALIGN="RIGHT">80,1</td>
+<td ALIGN="RIGHT">87,6</td>
+<td ALIGN="RIGHT">88,8</td>
+<td ALIGN="RIGHT">89,2</td>
+<td ALIGN="RIGHT">97,1</td>
+<td ALIGN="RIGHT">106,9</td>
+<td ALIGN="RIGHT">107,3</td>
+<td ALIGN="RIGHT">97,7</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">97,5</td>
+<td ALIGN="RIGHT">95,2</td>
+<td ALIGN="RIGHT">94,6</td>
+</tr>
+<tr><td ALIGN="LEFT">I Ubytování, stravování a pohostinství</td>
+<td ALIGN="RIGHT">45,3</td>
+<td ALIGN="RIGHT">62,7</td>
+<td ALIGN="RIGHT">79,4</td>
+<td ALIGN="RIGHT">87,7</td>
+<td ALIGN="RIGHT">97,6</td>
+<td ALIGN="RIGHT">108,7</td>
+<td ALIGN="RIGHT">114,2</td>
+<td ALIGN="RIGHT">113,2</td>
+<td ALIGN="RIGHT">110,8</td>
+<td ALIGN="RIGHT">104,8</td>
+<td ALIGN="RIGHT">107</td>
+<td ALIGN="RIGHT">102,7</td>
+<td ALIGN="RIGHT">100,7</td>
+<td ALIGN="RIGHT">104,8</td>
+<td ALIGN="RIGHT">104,7</td>
+<td ALIGN="RIGHT">101</td>
+<td ALIGN="RIGHT">106,5</td>
+<td ALIGN="RIGHT">121,4</td>
+<td ALIGN="RIGHT">116,3</td>
+<td ALIGN="RIGHT">107,2</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">100,4</td>
+<td ALIGN="RIGHT">94,8</td>
+<td ALIGN="RIGHT">95,3</td>
+</tr>
+<tr><td ALIGN="LEFT">J Informační a komunikační činnosti</td>
+<td ALIGN="RIGHT">12,3</td>
+<td ALIGN="RIGHT">16,5</td>
+<td ALIGN="RIGHT">22,8</td>
+<td ALIGN="RIGHT">28,9</td>
+<td ALIGN="RIGHT">30,9</td>
+<td ALIGN="RIGHT">38,4</td>
+<td ALIGN="RIGHT">45,1</td>
+<td ALIGN="RIGHT">51</td>
+<td ALIGN="RIGHT">50,8</td>
+<td ALIGN="RIGHT">53</td>
+<td ALIGN="RIGHT">58,2</td>
+<td ALIGN="RIGHT">62,9</td>
+<td ALIGN="RIGHT">65,2</td>
+<td ALIGN="RIGHT">69,3</td>
+<td ALIGN="RIGHT">71,9</td>
+<td ALIGN="RIGHT">81,1</td>
+<td ALIGN="RIGHT">90,2</td>
+<td ALIGN="RIGHT">97,3</td>
+<td ALIGN="RIGHT">98,8</td>
+<td ALIGN="RIGHT">99,8</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">100,8</td>
+<td ALIGN="RIGHT">98,8</td>
+<td ALIGN="RIGHT">97,5</td>
+</tr>
+<tr><td ALIGN="LEFT">K Peněžnictví a pojišťovnictví</td>
+<td ALIGN="RIGHT">17,8</td>
+<td ALIGN="RIGHT">26,7</td>
+<td ALIGN="RIGHT">33,8</td>
+<td ALIGN="RIGHT">42,9</td>
+<td ALIGN="RIGHT">45,2</td>
+<td ALIGN="RIGHT">47,5</td>
+<td ALIGN="RIGHT">55,2</td>
+<td ALIGN="RIGHT">57,4</td>
+<td ALIGN="RIGHT">67,3</td>
+<td ALIGN="RIGHT">67,2</td>
+<td ALIGN="RIGHT">64,3</td>
+<td ALIGN="RIGHT">68,3</td>
+<td ALIGN="RIGHT">62,8</td>
+<td ALIGN="RIGHT">68,3</td>
+<td ALIGN="RIGHT">72,2</td>
+<td ALIGN="RIGHT">78,1</td>
+<td ALIGN="RIGHT">83,7</td>
+<td ALIGN="RIGHT">93,4</td>
+<td ALIGN="RIGHT">95,3</td>
+<td ALIGN="RIGHT">96,5</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">98,8</td>
+<td ALIGN="RIGHT">104,7</td>
+<td ALIGN="RIGHT">110,9</td>
+</tr>
+<tr><td ALIGN="LEFT">L Činnosti v oblasti nemovitostí</td>
+<td ALIGN="RIGHT">71</td>
+<td ALIGN="RIGHT">63,3</td>
+<td ALIGN="RIGHT">58,9</td>
+<td ALIGN="RIGHT">55,2</td>
+<td ALIGN="RIGHT">54,1</td>
+<td ALIGN="RIGHT">58,2</td>
+<td ALIGN="RIGHT">57,6</td>
+<td ALIGN="RIGHT">58,6</td>
+<td ALIGN="RIGHT">60,6</td>
+<td ALIGN="RIGHT">64,3</td>
+<td ALIGN="RIGHT">71,5</td>
+<td ALIGN="RIGHT">72,1</td>
+<td ALIGN="RIGHT">72</td>
+<td ALIGN="RIGHT">73</td>
+<td ALIGN="RIGHT">76,7</td>
+<td ALIGN="RIGHT">79,6</td>
+<td ALIGN="RIGHT">83,5</td>
+<td ALIGN="RIGHT">87,8</td>
+<td ALIGN="RIGHT">96,7</td>
+<td ALIGN="RIGHT">94,8</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">102,2</td>
+<td ALIGN="RIGHT">103,2</td>
+<td ALIGN="RIGHT">102,9</td>
+</tr>
+<tr><td ALIGN="LEFT">M Profesní, vědecké a technické činnosti</td>
+<td ALIGN="RIGHT">33,9</td>
+<td ALIGN="RIGHT">46,6</td>
+<td ALIGN="RIGHT">56,4</td>
+<td ALIGN="RIGHT">67,2</td>
+<td ALIGN="RIGHT">61,9</td>
+<td ALIGN="RIGHT">59,9</td>
+<td ALIGN="RIGHT">57,8</td>
+<td ALIGN="RIGHT">59,6</td>
+<td ALIGN="RIGHT">62,7</td>
+<td ALIGN="RIGHT">63,3</td>
+<td ALIGN="RIGHT">66,2</td>
+<td ALIGN="RIGHT">69,9</td>
+<td ALIGN="RIGHT">76,6</td>
+<td ALIGN="RIGHT">83,7</td>
+<td ALIGN="RIGHT">81,2</td>
+<td ALIGN="RIGHT">86,3</td>
+<td ALIGN="RIGHT">86,2</td>
+<td ALIGN="RIGHT">100,8</td>
+<td ALIGN="RIGHT">107,4</td>
+<td ALIGN="RIGHT">97,5</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">99,9</td>
+<td ALIGN="RIGHT">99,1</td>
+<td ALIGN="RIGHT">98,3</td>
+</tr>
+<tr><td ALIGN="LEFT">N Administrativní a podpůrné činnosti</td>
+<td ALIGN="RIGHT">54</td>
+<td ALIGN="RIGHT">68,2</td>
+<td ALIGN="RIGHT">80,1</td>
+<td ALIGN="RIGHT">81,6</td>
+<td ALIGN="RIGHT">73,8</td>
+<td ALIGN="RIGHT">76,4</td>
+<td ALIGN="RIGHT">75,7</td>
+<td ALIGN="RIGHT">76</td>
+<td ALIGN="RIGHT">72,8</td>
+<td ALIGN="RIGHT">70,7</td>
+<td ALIGN="RIGHT">71,3</td>
+<td ALIGN="RIGHT">76,7</td>
+<td ALIGN="RIGHT">80</td>
+<td ALIGN="RIGHT">83,1</td>
+<td ALIGN="RIGHT">87,5</td>
+<td ALIGN="RIGHT">87,8</td>
+<td ALIGN="RIGHT">94,9</td>
+<td ALIGN="RIGHT">112</td>
+<td ALIGN="RIGHT">116,1</td>
+<td ALIGN="RIGHT">110,1</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">106,3</td>
+<td ALIGN="RIGHT">105,1</td>
+<td ALIGN="RIGHT">104,4</td>
+</tr>
+<tr><td ALIGN="LEFT">O Veřejná správa a obrana; povinné sociální zabezpečení</td>
+<td ALIGN="RIGHT">59,9</td>
+<td ALIGN="RIGHT">61,4</td>
+<td ALIGN="RIGHT">69,7</td>
+<td ALIGN="RIGHT">80,1</td>
+<td ALIGN="RIGHT">82,3</td>
+<td ALIGN="RIGHT">75,7</td>
+<td ALIGN="RIGHT">76</td>
+<td ALIGN="RIGHT">80,2</td>
+<td ALIGN="RIGHT">80,4</td>
+<td ALIGN="RIGHT">80,5</td>
+<td ALIGN="RIGHT">80,2</td>
+<td ALIGN="RIGHT">80,1</td>
+<td ALIGN="RIGHT">89,1</td>
+<td ALIGN="RIGHT">93,4</td>
+<td ALIGN="RIGHT">92,9</td>
+<td ALIGN="RIGHT">93,7</td>
+<td ALIGN="RIGHT">95,7</td>
+<td ALIGN="RIGHT">96</td>
+<td ALIGN="RIGHT">98,6</td>
+<td ALIGN="RIGHT">99,8</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">96,2</td>
+<td ALIGN="RIGHT">91,3</td>
+<td ALIGN="RIGHT">93,1</td>
+</tr>
+<tr><td ALIGN="LEFT">P Vzdělávání</td>
+<td ALIGN="RIGHT">58,9</td>
+<td ALIGN="RIGHT">61,8</td>
+<td ALIGN="RIGHT">70</td>
+<td ALIGN="RIGHT">75</td>
+<td ALIGN="RIGHT">76,8</td>
+<td ALIGN="RIGHT">79,2</td>
+<td ALIGN="RIGHT">79,6</td>
+<td ALIGN="RIGHT">75,2</td>
+<td ALIGN="RIGHT">76,4</td>
+<td ALIGN="RIGHT">77,1</td>
+<td ALIGN="RIGHT">79,6</td>
+<td ALIGN="RIGHT">83,4</td>
+<td ALIGN="RIGHT">86,1</td>
+<td ALIGN="RIGHT">93,6</td>
+<td ALIGN="RIGHT">92</td>
+<td ALIGN="RIGHT">94,4</td>
+<td ALIGN="RIGHT">96,7</td>
+<td ALIGN="RIGHT">97,9</td>
+<td ALIGN="RIGHT">99,5</td>
+<td ALIGN="RIGHT">99,6</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">102,4</td>
+<td ALIGN="RIGHT">101</td>
+<td ALIGN="RIGHT">101,4</td>
+</tr>
+<tr><td ALIGN="LEFT">Q Zdravotní a sociální péče</td>
+<td ALIGN="RIGHT">115,1</td>
+<td ALIGN="RIGHT">105,5</td>
+<td ALIGN="RIGHT">103,9</td>
+<td ALIGN="RIGHT">97,9</td>
+<td ALIGN="RIGHT">108,5</td>
+<td ALIGN="RIGHT">104,7</td>
+<td ALIGN="RIGHT">100,2</td>
+<td ALIGN="RIGHT">93,6</td>
+<td ALIGN="RIGHT">85,2</td>
+<td ALIGN="RIGHT">84,4</td>
+<td ALIGN="RIGHT">83,4</td>
+<td ALIGN="RIGHT">89,8</td>
+<td ALIGN="RIGHT">95,7</td>
+<td ALIGN="RIGHT">99,2</td>
+<td ALIGN="RIGHT">94,3</td>
+<td ALIGN="RIGHT">95,8</td>
+<td ALIGN="RIGHT">94,4</td>
+<td ALIGN="RIGHT">97,8</td>
+<td ALIGN="RIGHT">99,2</td>
+<td ALIGN="RIGHT">100,7</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">99,4</td>
+<td ALIGN="RIGHT">98,2</td>
+<td ALIGN="RIGHT">96,8</td>
+</tr>
+<tr><td ALIGN="LEFT">R Kulturní, zábavní a rekreační činnosti</td>
+<td ALIGN="RIGHT">58</td>
+<td ALIGN="RIGHT">53,8</td>
+<td ALIGN="RIGHT">52,9</td>
+<td ALIGN="RIGHT">59,4</td>
+<td ALIGN="RIGHT">68,7</td>
+<td ALIGN="RIGHT">72,1</td>
+<td ALIGN="RIGHT">75,3</td>
+<td ALIGN="RIGHT">76,9</td>
+<td ALIGN="RIGHT">66,4</td>
+<td ALIGN="RIGHT">68,5</td>
+<td ALIGN="RIGHT">84,3</td>
+<td ALIGN="RIGHT">88,1</td>
+<td ALIGN="RIGHT">83,5</td>
+<td ALIGN="RIGHT">91,8</td>
+<td ALIGN="RIGHT">97,5</td>
+<td ALIGN="RIGHT">97,1</td>
+<td ALIGN="RIGHT">109,5</td>
+<td ALIGN="RIGHT">108</td>
+<td ALIGN="RIGHT">110,1</td>
+<td ALIGN="RIGHT">104,2</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">102,3</td>
+<td ALIGN="RIGHT">97,6</td>
+<td ALIGN="RIGHT">98,9</td>
+</tr>
+<tr><td ALIGN="LEFT">S Ostatní činnosti</td>
+<td ALIGN="RIGHT">117,8</td>
+<td ALIGN="RIGHT">118,6</td>
+<td ALIGN="RIGHT">109,6</td>
+<td ALIGN="RIGHT">74,3</td>
+<td ALIGN="RIGHT">86,9</td>
+<td ALIGN="RIGHT">104,3</td>
+<td ALIGN="RIGHT">101,9</td>
+<td ALIGN="RIGHT">98,3</td>
+<td ALIGN="RIGHT">103,2</td>
+<td ALIGN="RIGHT">104,5</td>
+<td ALIGN="RIGHT">101,9</td>
+<td ALIGN="RIGHT">98</td>
+<td ALIGN="RIGHT">102,3</td>
+<td ALIGN="RIGHT">108,1</td>
+<td ALIGN="RIGHT">108,7</td>
+<td ALIGN="RIGHT">103,8</td>
+<td ALIGN="RIGHT">111,1</td>
+<td ALIGN="RIGHT">112,4</td>
+<td ALIGN="RIGHT">104,4</td>
+<td ALIGN="RIGHT">97,3</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">101,7</td>
+<td ALIGN="RIGHT">97,9</td>
+<td ALIGN="RIGHT">99</td>
+</tr>
+<tr><td ALIGN="LEFT">T Činnosti domácností jako zaměstnavatelů a producentů pro vlastní potřebu</td>
+<td ALIGN="RIGHT">8,5</td>
+<td ALIGN="RIGHT">13</td>
+<td ALIGN="RIGHT">16,6</td>
+<td ALIGN="RIGHT">15</td>
+<td ALIGN="RIGHT">15,3</td>
+<td ALIGN="RIGHT">23,2</td>
+<td ALIGN="RIGHT">28,6</td>
+<td ALIGN="RIGHT">32</td>
+<td ALIGN="RIGHT">33,9</td>
+<td ALIGN="RIGHT">36,8</td>
+<td ALIGN="RIGHT">38,1</td>
+<td ALIGN="RIGHT">45</td>
+<td ALIGN="RIGHT">52,9</td>
+<td ALIGN="RIGHT">59,6</td>
+<td ALIGN="RIGHT">60,2</td>
+<td ALIGN="RIGHT">64,5</td>
+<td ALIGN="RIGHT">68,5</td>
+<td ALIGN="RIGHT">69,6</td>
+<td ALIGN="RIGHT">83,9</td>
+<td ALIGN="RIGHT">107,3</td>
+<td ALIGN="RIGHT">100</td>
+<td ALIGN="RIGHT">96,2</td>
+<td ALIGN="RIGHT">103,9</td>
+<td ALIGN="RIGHT">102,8</td>
+</tr>
+<tr><td ALIGN="LEFT">U Činnosti exteritoriálních organizací a orgánů</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+<td ALIGN="RIGHT">:</td>
+</tr>
+</TABLE>
+ <div class="paticka" align="center">
+&copy; Český statistický úřad, 08/12/2014 15:20:50</div></BODY></HTML>
