@@ -1,5 +1,7 @@
 #!/bin/bash
 
+dest_dir=${OPENSHIFT_DATA_DIR}current
+
 if [  -d ${OPENSHIFT_REPO_DIR}data ]; then
   cp -rf ${OPENSHIFT_REPO_DIR}data ${dest_dir}/data
 fi
