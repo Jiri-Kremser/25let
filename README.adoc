@@ -1,0 +1,6 @@
+:title: 25let
+
+== 25 let
+
+image:https://travis-ci.org/Jiri-Kremser/25let.svg?branch=master["Build Status", link="https://travis-ci.org/Jiri-Kremser/25let"]
+
