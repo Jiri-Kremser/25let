@@ -6,4 +6,4 @@ before_install:
   - 'npm install -g bower grunt-cli'
   - 'cd 25let-src && bower install'
 
-script: sh -c 'cd 25let-src && grunt build'
+script: 'grunt build'
