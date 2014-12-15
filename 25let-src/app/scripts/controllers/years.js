@@ -61,10 +61,9 @@ angular.module('openshiftApp')
     };
   };
 
-  
   $scope.configHdp = getConfig('', false, ['#69b59f']);
-  $scope.configPie = getConfig('Odvětví');
-  $scope.configPie2 = getConfig('Struktura výdajů domácností', true);
+  $scope.configPie = getConfig('');
+  $scope.configPie2 = getConfig('', true);
   $scope.configEmise = getConfig('', true);
 
   $scope.year = 1989;
@@ -94,7 +93,19 @@ angular.module('openshiftApp')
   }).error(errHadler);
 
   $http.get('data/delka-zivota-nezamestnanost.json').success(function(response){
-    $scope.lidi = response;
+    $scope.lidi = response;   
+    $scope.$watch('year', function() {
+      $scope.getLifeExpectancy = function(year){
+        return {
+          "series": ["Muži, Ženy"],
+          "data": [{
+            "x": year,
+            "y": [$scope.lidi.data[year - $scope.startYear].y[0], $scope.lidi.data[year - $scope.startYear].y[1]]
+          }]
+        };
+      }($scope.year);
+    });
   }).error(errHadler);
+
 
 });
