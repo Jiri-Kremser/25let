@@ -7,7 +7,7 @@ image:https://travis-ci.org/Jiri-Kremser/25let.svg?branch=master["Build Status",
 building:
 
 . `cd 25let-src`
-. `npm install
+. `npm install`
 . `bower install`
 . `grunt serve`
 
