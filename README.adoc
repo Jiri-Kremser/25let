@@ -11,3 +11,8 @@ building:
 . `bower install`
 . `grunt serve`
 
+Or you can download and run the docker image without building it by
+
+```
+sudo docker run -d -p 3000:3000 jkremser/25let:latest
+```
