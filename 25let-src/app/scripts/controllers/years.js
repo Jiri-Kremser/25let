@@ -63,8 +63,9 @@ angular.module('openshiftApp')
 
   $scope.configHdp = getConfig('', false, ['#69b59f']);
   $scope.configPie = getConfig('');
-  $scope.configPie2 = getConfig('', true);
+  $scope.configPie2 = getConfig('', true, ['#69b59f']);
   $scope.configEmise = getConfig('', true);
+  $scope.configDoziti = getConfig('', false, ['#51A5BA', '#FF604B']);
 
   $scope.year = 1989;
   $scope.startYear = 1989;
@@ -74,6 +75,10 @@ angular.module('openshiftApp')
   };
   $http.get('data/hdp.json').success(function(response){
     $scope.hdp = response;
+  }).error(errHadler);
+
+  $http.get('data/mzdy.json').success(function(response){
+    $scope.mzdy = response;
   }).error(errHadler);
 
   $http.get('data/inflace.json').success(function(response){
@@ -95,15 +100,15 @@ angular.module('openshiftApp')
   $http.get('data/delka-zivota-nezamestnanost.json').success(function(response){
     $scope.lidi = response;   
     $scope.$watch('year', function() {
-      $scope.getLifeExpectancy = function(year){
+      $scope.getLifeExpectancy = (function(year){
         return {
-          "series": ["Muži, Ženy"],
-          "data": [{
-            "x": year,
-            "y": [$scope.lidi.data[year - $scope.startYear].y[0], $scope.lidi.data[year - $scope.startYear].y[1]]
+          'series': ['Muži, Ženy'],
+          'data': [{
+            'x': year,
+            'y': [$scope.lidi.data[year - $scope.startYear].y[0], $scope.lidi.data[year - $scope.startYear].y[1]]
           }]
         };
-      }($scope.year);
+      }($scope.year));
     });
   }).error(errHadler);
 

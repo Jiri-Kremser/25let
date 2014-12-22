@@ -10,7 +10,7 @@
 angular.module('openshiftApp')
   .controller('MainController', function ($scope, $http) {
   
-  var getConfig = function(name, showLegend, color, lineType, labelss){
+  var getConfig = function(name, showLegend, color, lineType, labelss, lineLegendd, legendp){
     return {
     title: name,
     tooltips: true,
@@ -39,8 +39,9 @@ angular.module('openshiftApp')
     legend: {
       display: showLegend,
       htmlEnabled: true, 
-      position: 'right'
+      position: legendp ? legendp : 'right'
     },
+    lineLegend: lineLegendd ? lineLegendd : 'lineEnd',
     isAnimate: true,
     lineCurveType: lineType ? lineType : 'cardinal'
     };
@@ -50,6 +51,7 @@ angular.module('openshiftApp')
   $scope.configHdp = getConfig('', false, ['#69b59f']);
   $scope.configEmise = getConfig('', true);
   $scope.configInflace = getConfig('', false, ['#FE8402'], 'step-after', true);
+  $scope.configMzdy = getConfig('', true, ['#69b59f', '#6969b5'], 'cardinal', false, 'traditional', 'left');
   $scope.configLidi = getConfig('', false, ['#51A5BA', '#FF604B', '#E9AC20']);
 
   $scope.year = 1989;
@@ -64,6 +66,10 @@ angular.module('openshiftApp')
 
   $http.get('data/inflace.json').success(function(response){
     $scope.inflace = response;
+  }).error(errHadler);
+
+  $http.get('data/mzdy.json').success(function(response){
+    $scope.mzdy = response;
   }).error(errHadler);
 
   $http.get('data/delka-zivota-nezamestnanost.json').success(function(response){

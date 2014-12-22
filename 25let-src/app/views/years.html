@@ -32,15 +32,18 @@
     data-ac-config="configPie2;" 
     class="pie-chart2">
   </div>
- </div>
-</div>
-
+<br>
+<i class="myIconYears fa fa-heart">Doba dožití</i>
 <div 
     data-ac-chart="'bar'" 
     data-ac-data="getLifeExpectancy"
-    data-ac-config="configHdp;"
+    data-ac-config="configDoziti;"
     class="expectancy-chart">
-  </div>
+</div>
+ </div>
+</div>
+
+
 <!--
   <div 
     data-ac-chart="'bar'" 
@@ -53,7 +56,9 @@ HDP:&nbsp;{{hdp.data[year-startYear].y[0] | number}}.000 korun<br>
 Inflace:&nbsp;{{inflace.data[year-startYear].y[0] | number:1}} %<br>
 Průměrná doba dožití mužů:&nbsp;{{lidi.data[year-startYear].y[0]}} let<br>
 Průměrná doba dožití žen:&nbsp;{{lidi.data[year-startYear].y[1]}} let<br>
-nezaměstnanost:&nbsp;{{lidi.data[year-startYear].y[2]}} %
+nezaměstnanost:&nbsp;{{lidi.data[year-startYear].y[2]}} %<br><br>
+
+Mzdy:&nbsp;<div ng-bind-html="mzdy.data[year-startYear].tooltip"></div>
 </div>
 <br><br>
   <slider 
