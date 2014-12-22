@@ -14,5 +14,6 @@ building:
 Or you can download and run the docker image without building it by
 
 ```
-sudo docker run -d -p 3000:3000 jkremser/25let:latest
+sudo docker run -d -p 3000:3000 jkremser/25let:latest && xdg-open http://localhost:3000
 ```
+
