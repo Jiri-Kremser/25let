@@ -1,0 +1,2017 @@
+[{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [274921]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [161824]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [1662430]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [196514]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [56266]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [518366]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [407910]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [365323]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [70762]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [43630]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [56103]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [432266]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [155356]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [88799]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [222399]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [118488]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [282650]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [53966]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [86286]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [224]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [264739]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [141223]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [1448440]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [246074]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [61705]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [500327]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [377538]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [347313]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [98003]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [58559]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [84289]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [385202]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [213626]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [112123]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [228091]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [124510]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [259071]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [50075]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [86890]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [340]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [191756]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [133646]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [1294672]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [364074]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [73353]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [524846]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [388215]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [356529]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [124079]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [80896]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [106419]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [358778]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [258539]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [131612]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [258910]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [140892]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [255162]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [49245]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [80287]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [436]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [187277]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [111391]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [1192998]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [335696]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [80166]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [550389]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [366278]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [356963]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [136995]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [102482]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [135150]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [335999]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [308388]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [134116]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [297518]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [151031]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [240370]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [55331]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [54462]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [393]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [186100]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [111348]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [1197354]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [334809]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [78276]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [580039]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [368744]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [359019]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [152511]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [109466]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [142556]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [329282]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [283998]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [121261]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [305535]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [154662]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [266337]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [63933]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [63680]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [401]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [181789]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [128147]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [1375396]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [300441]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [69093]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [651424]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [375219]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [386046]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [169816]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [136141]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [149829]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [354256]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [274600]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [125518]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [281277]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [159533]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [256998]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [67131]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [76414]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [609]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [179454]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [126907]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [1452704]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [347235]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [81951]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [688074]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [393663]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [401617]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [178422]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [160054]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [173976]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [350456]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [265011]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [124356]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [282342]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [160198]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [245897]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [70090]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [74660]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [749]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [172722]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [119759]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [1598682]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [359972]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [83253]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [660789]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [394850]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [409740]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [176801]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [180819]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [180784]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [356785]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [273404]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [124867]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [297808]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [151397]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [229829]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [71631]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [71989]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [839]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [171568]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [113260]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [1693834]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [351263]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [85969]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [639430]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [397659]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [398381]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [173129]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [180274]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [212259]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [368700]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [287859]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [119592]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [298380]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [153766]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [209312]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [61847]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [75598]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [889]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [171418]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [99503]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [1704652]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [353250]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [86631]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [614776]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [416259]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [403115]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [163785]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [187844]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [211937]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [391279]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [290574]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [116103]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [298982]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [155288]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [207258]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [63791]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [76537]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [964]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [172402]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [95936]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [1835514]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [350855]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [86690]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [600489]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [470028]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [421716]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [167115]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [206613]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [202621]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [435158]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [303879]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [117124]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [297954]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [160352]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [204665]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [78504]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [74627]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [998]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [172759]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [100590]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [2022609]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [399303]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [85040]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [609126]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [493360]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [450771]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [160527]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [223129]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [215139]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [439133]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [320691]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [126117]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [297589]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [167970]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [220497]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [82066]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [71790]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [1181]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [166007]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [103017]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [2077354]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [396053]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [92263]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [646611]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [521307]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [444785]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [157276]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [231311]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [197766]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [438266]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [351309]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [131518]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [331037]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [173309]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [235029]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [77742]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [74958]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [1386]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [168682]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [100771]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [2227597]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [425028]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [91695]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [694904]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [572971]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [486168]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [163792]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [245753]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [215410]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [444506]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [383792]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [136520]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [346867]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [188395]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [243512]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [85467]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [79228]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [1562]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [177230]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [100761]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [2496413]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [428179]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [100058]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [711891]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [620881]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [493019]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [163570]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [254899]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [227632]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [466982]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [372551]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [143776]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [344888]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [185137]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [231446]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [90803]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [79641]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [1578]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [181340]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [91624]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [2711288]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [397101]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [98421]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [740180]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [644914]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [495079]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [157805]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [287651]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [246008]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [484707]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [395904]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [144288]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [347975]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [190096]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [235106]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [90403]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [76039]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [1692]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [179892]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [101065]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [3095522]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [451636]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [107684]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [822544]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [709630]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [539168]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [166463]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [319992]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [263720]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [508090]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [395329]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [155914]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [355229]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [194672]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [231755]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [101923]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [81404]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [1795]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [172741]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [106852]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [3351717]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [430042]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [111275]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [934983]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [761067]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [593491]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [189607]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [345276]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [294413]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [534748]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [462416]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [184106]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [356419]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [197181]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [240184]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [100586]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [82328]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [1823]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [180772]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [105363]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [3416612]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [420301]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [115088]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [926291]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [773181]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [595850]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [181659]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [350351]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [300298]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [588699]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [492540]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [190796]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [366171]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [200238]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [243443]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [102472]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [76457]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [2199]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [186344]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [90547]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [2916143]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [385848]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [111693]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [845374]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [750854]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [542584]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [167502]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [354170]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [304059]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [577244]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [447118]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [180927]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [370545]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [200613]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [247254]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [97000]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [71301]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [2813]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [175264]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [88832]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [3247096]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [382707]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [109723]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [836486]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [817506]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [555293]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [156241]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [354741]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [315162]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [608797]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [458800]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [164323]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [371350]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [201332]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [245529]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [93102]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [73261]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [2621]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [194730]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [85840]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [3471938]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [384660]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [115141]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [802246]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [855283]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [541390]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [156799]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [357453]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [311380]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [622112]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [458331]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [174605]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [357309]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [206115]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [244103]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [95213]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [74480]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [2522]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [192358]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [85060]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [3426853]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [376603]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [108012]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [734317]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [828287]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [528570]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [148144]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [350358]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [329904]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [628527]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [454730]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [172763]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [339175]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [203337]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [241004]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [90910]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [71719]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [2724]
+    }]
+  }, 
+{
+    "series": ["Zemědělství", "Těžba a dobývání", "Zpracovatelský průmysl", "Výroba a rozvod energií", "Zásobování vodou", "Stavebnictví", "Údržba motorových vozidel", "Doprava a skladování", "Ubytování a pohostinství", "Informační činnosti", "Peněžnictví a pojišťovnictví", "Nemovitosti", "Věda/technika", "Administrativa", "Veřejná správa a obrana", "Vzdělávání", "Zdravotnictví", "Kultura", "Ostatní činnosti", "Živnostníci/OSVČ"],
+    "data": [{
+      "x": "Zemědělství",
+      "tooltip": "Zemědělství",
+      "y": [187463]
+    }, {
+      "x": "Těžba a dobývání",
+      "tooltip": "Těžba a dobývání",
+      "y": [78667]
+    }, {
+      "x": "Zpracovatelský průmysl",
+      "tooltip": "Zpracovatelský průmysl",
+      "y": [3399613]
+    }, {
+      "x": "Výroba a rozvod energií",
+      "tooltip": "Výroba a rozvod energií",
+      "y": [379827]
+    }, {
+      "x": "Zásobování vodou",
+      "tooltip": "Zásobování vodou",
+      "y": [103455]
+    }, {
+      "x": "Stavebnictví",
+      "tooltip": "Stavebnictví",
+      "y": [703985]
+    }, {
+      "x": "Údržba motorových vozidel",
+      "tooltip": "Údržba motorových vozidel",
+      "y": [820397]
+    }, {
+      "x": "Doprava a skladování",
+      "tooltip": "Doprava a skladování",
+      "y": [525091]
+    }, {
+      "x": "Ubytování a pohostinství",
+      "tooltip": "Ubytování a pohostinství",
+      "y": [148941]
+    }, {
+      "x": "Informační činnosti",
+      "tooltip": "Informační činnosti",
+      "y": [345797]
+    }, {
+      "x": "Peněžnictví a pojišťovnictví",
+      "tooltip": "Peněžnictví a pojišťovnictví",
+      "y": [349595]
+    }, {
+      "x": "Nemovitosti",
+      "tooltip": "Nemovitosti",
+      "y": [626163]
+    }, {
+      "x": "Věda/technika",
+      "tooltip": "Věda/technika",
+      "y": [450890]
+    }, {
+      "x": "Administrativa",
+      "tooltip": "Administrativa",
+      "y": [171577]
+    }, {
+      "x": "Veřejná správa a obrana",
+      "tooltip": "Veřejná správa a obrana",
+      "y": [345802]
+    }, {
+      "x": "Vzdělávání",
+      "tooltip": "Vzdělávání",
+      "y": [204161]
+    }, {
+      "x": "Zdravotnictví",
+      "tooltip": "Zdravotnictví",
+      "y": [237748]
+    }, {
+      "x": "Kultura",
+      "tooltip": "Kultura",
+      "y": [92107]
+    }, {
+      "x": "Ostatní činnosti",
+      "tooltip": "Ostatní činnosti",
+      "y": [72564]
+    }, {
+      "x": "Živnostníci/OSVČ",
+      "tooltip": "Živnostníci/OSVČ",
+      "y": [2696]
+    }]
+  }
+]

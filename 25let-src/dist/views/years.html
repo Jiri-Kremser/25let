@@ -1,0 +1,19 @@
+<div class="yearsContainer"> <h2>Rok {{year}}</h2> <br><br> <!--
+<i class="myIcon fa fa-pie-chart"></i>
+<i class="myIcon fa fa-area-chart"></i>
+<i class="myIcon fa fa-bar-chart"></i>
+<i class="myIcon fa fa-cubes"></i>
+<i class="myIcon fa fa-code"></i>
+<i class="myIcon fa fa-medkit"></i>
+<i class="myIcon fa fa-ambulance"></i>
+<i class="myIcon fa fa-heart"></i> zdravi
+<i class="myIcon fa fa-sitemap"></i>
+<i class="myIcon fa fa-shopping-cart"></i> bigmac index
+--> <div class="row"> <div class="col-md-6"> <span class="myIconYears fa fa-cubes">Struktura ekonomiky</span> <div data-ac-chart="'pie'" data-ac-data="odvetvi[year-startYear]" data-ac-config="configPie;" class="pie-chart"> </div> </div> <div class="col-md-6"> <span class="myIconYears fa fa-sitemap">Struktura výdajů domácností</span> <div data-ac-chart="'pie'" data-ac-data="vydaje[year-startYear]" data-ac-config="configPie2;" class="pie-chart2"> </div> <br> <i class="myIconYears fa fa-heart">Doba dožití</i> <div data-ac-chart="'bar'" data-ac-data="getLifeExpectancy" data-ac-config="configDoziti;" class="expectancy-chart"> </div> </div> </div> <!--
+  <div 
+    data-ac-chart="'bar'" 
+    data-ac-data="odvetvi[year-startYear]" 
+    data-ac-config="configPie;" 
+    class="hdp-chart">
+  </div>
+--> HDP:&nbsp;{{hdp.data[year-startYear].y[0] | number}}.000 korun<br> Inflace:&nbsp;{{inflace.data[year-startYear].y[0] | number:1}} %<br> Průměrná doba dožití mužů:&nbsp;{{lidi.data[year-startYear].y[0]}} let<br> Průměrná doba dožití žen:&nbsp;{{lidi.data[year-startYear].y[1]}} let<br> nezaměstnanost:&nbsp;{{lidi.data[year-startYear].y[2]}} %<br><br> Mzdy:&nbsp;<div ng-bind-html="mzdy.data[year-startYear].tooltip"></div> </div> <br><br> <slider ng-model="year" min="{{startYear}}" step="1" max="2014" handle="square" width="1000px" value="1984" id="yearSlider"> </slider> Rok <br><br> <br><br> 
