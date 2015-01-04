@@ -70,6 +70,13 @@ angular.module('openshiftApp')
   $scope.year = 1989;
   $scope.startYear = 1989;
 
+  $scope.getData = function(something, suffix) {
+    if (something) {
+      return something + (suffix ? suffix : '');
+    }
+    return 'data nejsou dostupná';
+  };
+
   var errHadler = function(response) {
     console.error(response);
   };

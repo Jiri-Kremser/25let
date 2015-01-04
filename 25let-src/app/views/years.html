@@ -52,13 +52,13 @@
     class="hdp-chart">
   </div>
 -->
-HDP:&nbsp;{{hdp.data[year-startYear].y[0] | number}}.000 korun<br>
-Inflace:&nbsp;{{inflace.data[year-startYear].y[0] | number:1}} %<br>
-Průměrná doba dožití mužů:&nbsp;{{lidi.data[year-startYear].y[0]}} let<br>
-Průměrná doba dožití žen:&nbsp;{{lidi.data[year-startYear].y[1]}} let<br>
-nezaměstnanost:&nbsp;{{lidi.data[year-startYear].y[2]}} %<br><br>
+HDP:&nbsp;{{getData((hdp.data[year-startYear].y[0] | number), '.000 korun')}}<br>
+Inflace:&nbsp;{{getData((inflace.data[year-startYear].y[0] | number:1), ' %')}}<br>
+Průměrná doba dožití mužů:&nbsp;{{getData(lidi.data[year-startYear].y[0], ' let')}}<br>
+Průměrná doba dožití žen:&nbsp;{{getData(lidi.data[year-startYear].y[1], ' let')}}<br>
+nezaměstnanost:&nbsp;{{getData(lidi.data[year-startYear].y[2], ' %')}}<br><br>
 
-Mzdy:&nbsp;<div ng-bind-html="mzdy.data[year-startYear].tooltip"></div>
+Mzdy:&nbsp;<div ng-bind-html="getData(mzdy.data[year-startYear].tooltip)"></div>
 </div>
 <br><br>
   <slider 
@@ -71,7 +71,7 @@ Mzdy:&nbsp;<div ng-bind-html="mzdy.data[year-startYear].tooltip"></div>
     value="1984"
     id="yearSlider">
   </slider>
-Rok
+<span class="osa">Časová osa</span>
 
 <br><br>
 <br><br>

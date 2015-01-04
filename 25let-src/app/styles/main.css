@@ -130,6 +130,10 @@ body {
   color: #666;
 }
 
+.osa {
+  margin-left: 10px;
+}
+
 .myFlag {
   padding: 4px 15px !important;
   cursor: Default;
