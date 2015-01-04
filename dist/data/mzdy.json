@@ -1,0 +1,110 @@
+{
+    "series": ["Nominalní růst/pokles", "Reálný růst (očištěný o inflaci"],
+    "data": [
+      {
+        "x": "1993",
+        "y": [18.6, -2.2],
+        "tooltip": "Průměrná mzda: <b>5904</b> Kč<br>Nominální růst: 18.6 %<br>Reálný růst: -2.2 %"
+      }, 
+      {
+        "x": "1994",
+        "y": [18.6, 8.6],
+        "tooltip": "Průměrná mzda: <b>7004</b> Kč<br>Nominální růst: 18.6 %<br>Reálný růst: 8.6 %"
+      }, 
+      {
+        "x": "1995",
+        "y": [18.3, 9.2],
+        "tooltip": "Průměrná mzda: <b>8307</b> Kč<br>Nominální růst: 18.3 %<br>Reálný růst: 9.2 %"
+      }, 
+      {
+        "x": "1996",
+        "y": [9.9, 1.1],
+        "tooltip": "Průměrná mzda: <b>9825</b> Kč<br>Nominální růst: 9.9 %<br>Reálný růst: 1.1 %"
+      }, 
+      {
+        "x": "1997",
+        "y": [9.4, 0.9],
+        "tooltip": "Průměrná mzda: <b>10802</b> Kč<br>Nominální růst: 9.4 %<br>Reálný růst: 0.9 %"
+      }, 
+      {
+        "x": "1998",
+        "y": [8.4, -2.3],
+        "tooltip": "Průměrná mzda: <b>11801</b> Kč<br>Nominální růst: 8.4 %<br>Reálný růst: -2.3 %"
+      }, 
+      {
+        "x": "1999",
+        "y": [6.2, 4.1],
+        "tooltip": "Průměrná mzda: <b>12797</b> Kč<br>Nominální růst: 6.2 %<br>Reálný růst: 4.1 %"
+      }, 
+      {
+        "x": "2000",
+        "y": [8.5, 4.6],
+        "tooltip": "Průměrná mzda: <b>13594</b> Kč<br>Nominální růst: 8.5 %<br>Reálný růst: 4.6 %"
+      }, 
+      {
+        "x": "2001",
+        "y": [8.8, 3.9],
+        "tooltip": "Průměrná mzda: <b>14750</b> Kč<br>Nominální růst: 8.8 %<br>Reálný růst: 3.9 %"
+      }, 
+      {
+        "x": "2002",
+        "y": [8.0, 6.1],
+        "tooltip": "Průměrná mzda: <b>15911</b> Kč<br>Nominální růst: 8.0 %<br>Reálný růst: 6.1 %"
+      }, 
+      {
+        "x": "2003",
+        "y": [5.8, 5.7],
+        "tooltip": "Průměrná mzda: <b>16905</b> Kč<br>Nominální růst: 5.8 %<br>Reálný růst: 5.7 %"
+      }, 
+      {
+        "x": "2004",
+        "y": [6.3, 3.4],
+        "tooltip": "Průměrná mzda: <b>18025</b> Kč<br>Nominální růst: 6.3 %<br>Reálný růst: 3.4 %"
+      }, 
+      {
+        "x": "2005",
+        "y": [5.0, 3.0],
+        "tooltip": "Průměrná mzda: <b>18940</b> Kč<br>Nominální růst: 5.0 %<br>Reálný růst: 3.0 %"
+      }, 
+      {
+        "x": "2006",
+        "y": [6.6, 4.0],
+        "tooltip": "Průměrná mzda: <b>20158</b> Kč<br>Nominální růst: 6.6 %<br>Reálný růst: 4.0 %"
+      }, 
+      {
+        "x": "2007",
+        "y": [7.2, 4.3],
+        "tooltip": "Průměrná mzda: <b>21621</b> Kč<br>Nominální růst: 7.2 %<br>Reálný růst: 4.3 %"
+      }, 
+      {
+        "x": "2008",
+        "y": [7.8, 1.4],
+        "tooltip": "Průměrná mzda: <b>23430</b> Kč<br>Nominální růst: 7.8 %<br>Reálný růst: 1.4 %"
+      }, 
+      {
+        "x": "2009",
+        "y": [3.3, 2.3],
+        "tooltip": "Průměrná mzda: <b>24242</b> Kč<br>Nominální růst: 3.3 %<br>Reálný růst: 2.3 %"
+      }, 
+      {
+        "x": "2010",
+        "y": [2.2, 0.7],
+        "tooltip": "Průměrná mzda: <b>24453</b> Kč<br>Nominální růst: 2.2 %<br>Reálný růst: 0.7 %"
+      }, 
+      {
+        "x": "2011",
+        "y": [2.5, 0.6],
+        "tooltip": "Průměrná mzda: <b>24494</b> Kč<br>Nominální růst: 2.5 %<br>Reálný růst: 0.6 %"
+      }, 
+      {
+        "x": "2012",
+        "y": [2.5, -0.8],
+        "tooltip": "Průměrná mzda: <b>25014</b> Kč<br>Nominální růst: 2.5 %<br>Reálný růst: -0.8 %"
+      }, 
+      {
+        "x": "2013",
+        "y": [0.0, -1.4],
+        "tooltip": "Průměrná mzda: <b>25254</b> Kč<br>Nominální růst: 0.0 %<br>Reálný růst: -1.4 %"
+      } 
+   ]
+}
